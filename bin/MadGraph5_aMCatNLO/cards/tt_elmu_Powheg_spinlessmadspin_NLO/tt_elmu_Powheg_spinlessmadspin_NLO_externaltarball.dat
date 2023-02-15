@@ -1,0 +1,2 @@
+# Link to cards: https://github.com/cms-sw/genproductions/blob/master/bin/Powheg/production/2017/13TeV/st_tch_4f_ckm_13TeV/st_tch_4f_ckm_top_13TeV.input
+EXTERNAL_TARBALL="/data9/Users/shin/CMSSW_12_4_8/src/genproductions/bin/Powheg/hvq_slc7_amd64_gcc10_CMSSW_12_4_8_TT_no_decay.tgz"
